@@ -5,7 +5,7 @@
 End Section
 
 @Code
-    Layout = "~/_SiteLayout.vbhtml"
+    Layout = "~/_login.vbhtml"
     PageData("Title") = "Log in"
 
     ' Initialize general page variables
