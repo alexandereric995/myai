@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="utf-8" />
-    <link rel="icon" href="./Images/ue.ico" />
+    <link rel="icon" href="./jimg/icon.ico" />
     <title>INDEX</title>
     <link href="~/Content/themes/base/jquery.ui.all.css" rel="stylesheet" type="text/css" />
     <link href="~/Content/portal.css" rel="stylesheet" type="text/css" />
